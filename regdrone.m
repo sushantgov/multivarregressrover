@@ -48,4 +48,3 @@ ylabel('pred2')
 zlabel('vel rover')
 view(50,10)
 hold off
-ypred = predict(,X);
